@@ -1,4 +1,5 @@
-# CAPP Camp Git Lab
+gi# CAPP Camp Git Lab
+Ryota Shimizu
 
 Like yesterday's lab, today's lab will ask you to take some steps with Git and run a `check.py` script as you go.
 
